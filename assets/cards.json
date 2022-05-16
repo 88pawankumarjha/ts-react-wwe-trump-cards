@@ -1,0 +1,130 @@
+[
+  {
+    "Name": "RomanReigns",
+    "Rank": "16",
+    "Height": "190",
+    "Weight": "264",
+    "WinPercent": "72.3",
+    "URL": "https://raw.githubusercontent.com/88pawankumarjha/wwe-cards/d052b0a301a5ce492b933073180f0051cbd5bba2/src/assets/images/RomanReignsNEW.jpg"
+  },
+  {
+    "Name": "John Cena",
+    "Rank": "5",
+    "Height": "185",
+    "Weight": "251",
+    "WinPercent": "78.6",
+    "URL": "https://raw.githubusercontent.com/88pawankumarjha/wwe-cards/d052b0a301a5ce492b933073180f0051cbd5bba2/src/assets/images/john-cena_th.jpg"
+  },
+  {
+    "Name": "Seth Rollins",
+    "Rank": "6",
+    "Height": "187",
+    "Weight": "205",
+    "WinPercent": "50.2",
+    "URL": "https://raw.githubusercontent.com/88pawankumarjha/wwe-cards/d052b0a301a5ce492b933073180f0051cbd5bba2/src/assets/images/seth-rollins.jpg"
+  },
+  {
+    "Name": "The Undertaker",
+    "Rank": "1",
+    "Height": "208",
+    "Weight": "299",
+    "WinPercent": "75.0",
+    "URL": "https://raw.githubusercontent.com/88pawankumarjha/wwe-cards/d052b0a301a5ce492b933073180f0051cbd5bba2/src/assets/images/undertaker.jpg"
+  },
+  {
+    "Name": "Triple H",
+    "Rank": "9",
+    "Height": "193",
+    "Weight": "255",
+    "WinPercent": "51.8",
+    "URL": "https://raw.githubusercontent.com/88pawankumarjha/wwe-cards/d052b0a301a5ce492b933073180f0051cbd5bba2/src/assets/images/TripleHNEW.jpg"
+  },
+  {
+    "Name": "Hulk Hogan",
+    "Rank": "15",
+    "Height": "193",
+    "Weight": "275",
+    "WinPercent": "74.9",
+    "URL": "https://raw.githubusercontent.com/88pawankumarjha/wwe-cards/d052b0a301a5ce492b933073180f0051cbd5bba2/src/assets/images/thumb_hulkHogan.jpg"
+  },
+  {
+    "Name": "The Rock",
+    "Rank": "4",
+    "Height": "193",
+    "Weight": "264",
+    "WinPercent": "52.9",
+    "URL": "https://raw.githubusercontent.com/88pawankumarjha/wwe-cards/d052b0a301a5ce492b933073180f0051cbd5bba2/src/assets/images/the-rock.jpg"
+  },
+  {
+    "Name": "Stone Cold Steve Austin",
+    "Rank": "2",
+    "Height": "188",
+    "Weight": "255",
+    "WinPercent": "56.9",
+    "URL": "https://raw.githubusercontent.com/88pawankumarjha/wwe-cards/d052b0a301a5ce492b933073180f0051cbd5bba2/src/assets/images/stone-cold-steve-austin.jpg"
+  },
+  {
+    "Name": "Sasha Banks",
+    "Rank": "8",
+    "Height": "164",
+    "Weight": "114",
+    "WinPercent": "58.4",
+    "URL": "https://raw.githubusercontent.com/88pawankumarjha/wwe-cards/d052b0a301a5ce492b933073180f0051cbd5bba2/src/assets/images/sasha-banks_th.jpg"
+  },
+  {
+    "Name": "Ronda Rousey",
+    "Rank": "13",
+    "Height": "170",
+    "Weight": "134",
+    "WinPercent": "98.4",
+    "URL": "https://raw.githubusercontent.com/88pawankumarjha/wwe-cards/d052b0a301a5ce492b933073180f0051cbd5bba2/src/assets/images/ronda-rousey_th.jpg"
+  },
+  {
+    "Name": "Charlotte Flair",
+    "Rank": "11",
+    "Height": "178",
+    "Weight": "143",
+    "WinPercent": "58.8",
+    "URL": "https://raw.githubusercontent.com/88pawankumarjha/wwe-cards/d052b0a301a5ce492b933073180f0051cbd5bba2/src/assets/images/charlotte_th.jpg"
+  },
+  {
+    "Name": "Brock Lesnar",
+    "Rank": "10",
+    "Height": "193",
+    "Weight": "266",
+    "WinPercent": "73.1",
+    "URL": "https://raw.githubusercontent.com/88pawankumarjha/wwe-cards/d052b0a301a5ce492b933073180f0051cbd5bba2/src/assets/images/brock-lesnar.jpg"
+  },
+  {
+    "Name": "Big Show",
+    "Rank": "14",
+    "Height": "213",
+    "Weight": "396",
+    "WinPercent": "56.1",
+    "URL": "https://raw.githubusercontent.com/88pawankumarjha/wwe-cards/d052b0a301a5ce492b933073180f0051cbd5bba2/src/assets/images/BigShowNEW.jpg"
+  },
+  {
+    "Name": "Bray Wyatt",
+    "Rank": "12",
+    "Height": "190",
+    "Weight": "299",
+    "WinPercent": "35.2",
+    "URL": "https://raw.githubusercontent.com/88pawankumarjha/wwe-cards/d052b0a301a5ce492b933073180f0051cbd5bba2/src/assets/images/BrayWyattNEW.jpg"
+  },
+  {
+    "Name": "Bret Hart Hitman",
+    "Rank": "3",
+    "Height": "183",
+    "Weight": "235",
+    "WinPercent": "64.4",
+    "URL": "https://raw.githubusercontent.com/88pawankumarjha/wwe-cards/d052b0a301a5ce492b933073180f0051cbd5bba2/src/assets/images/bret-hart.jpg"
+  },
+  {
+    "Name": "Becky Lynch",
+    "Rank": "7",
+    "Height": "168",
+    "Weight": "130",
+    "WinPercent": "62.2",
+    "URL": "https://shop.wwe.com/on/demandware.static/-/Sites-wwe-us-navigation/default/dw9d61b575/images/superstar-thumb-300/becky-lynch_th.jpg"
+  }
+]
